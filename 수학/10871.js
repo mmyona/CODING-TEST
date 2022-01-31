@@ -7,7 +7,7 @@ var num = input[0].split(' ').map(x => Number(x));
 var arr = input[1].split(' ').map(x => Number(x));
 const answer = [];
 
-for (let i = 0; i <= num[0]; i++) {
+for (let i = 0; i <= num[0]; i++) { //크기 비교
     if (num[1] > arr[i]) {
         answer.push(arr[i]);
     } 
