@@ -1,1 +1,1 @@
-aabbccddeeFFGGG
+20 30 10
