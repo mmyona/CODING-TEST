@@ -1,3 +1,5 @@
+const { off } = require('process');
+
 let input = require('fs').readFileSync('question.txt').toString().split('\n');
 
 let set=new Set(input);
@@ -10,9 +12,8 @@ newArr.sort(function(a,b){
     if(a.length===b.length) return 0;
     else return -1;
 });
-for(let words of newArr){
-    
-}
+
+
 for(let words of newArr){
     console.log(words);
 }
