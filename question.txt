@@ -1,5 +1,0 @@
-4
-contest.txt
-context.txt
-context.txa
-cantext.txt
