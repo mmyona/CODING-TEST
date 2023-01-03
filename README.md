@@ -16,4 +16,3 @@ https://programmers.co.kr/?utm_source=google&utm_medium=cpc&utm_campaign=brand_p
 
 프로그래머스 문제 정리는 노션에
 https://www.notion.so/CODING-TEST-fbb26a32da1044b1ae3956a0659d3991
->>>>>>> 134a7d69020836245ab6a4539309ebe552472592
