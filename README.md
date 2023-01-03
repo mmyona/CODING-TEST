@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-"# coding-test" 
-=======
 # coding-test
 
 https://www.acmicpc.net/
